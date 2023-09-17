@@ -27,12 +27,12 @@ const siteProps = {
   name: "Piyush Mahajan",
   title: "Web Developer & UIUX Designer",
   email: "piyush.mahajan@studentambassadors.com",
-  gitHub: "https://github.com/piyush-mahajan",
-  instagram: "https://www.instagram.com/piyush_mahajan_04/",
-  linkedIn: "https://www.linkedin.com/in/piyush-mahajan-146860229/",
+  gitHub: "piyush-mahajan",
+  instagram: "piyush_mahajan_04/",
+  linkedIn: "piyush-mahajan-146860229/",
   medium: "",
-  twitter: "https://twitter.com/PiyushMaha63468",
-  youTube: "https://www.youtube.com/channel/UCSdFhHCqx3h5VWeNlR0PXDg",
+  twitter: "PiyushMaha63468",
+  youTube: "hannel/UCSdFhHCqx3h5VWeNlR0PXDg",
 };
 
 const primaryColor = "#4E567E";
