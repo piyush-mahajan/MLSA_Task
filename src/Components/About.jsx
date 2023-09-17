@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/wallpaperflare.com_wallpaper.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,16 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a web developer and designer based in India. The developing approach to the work I create is very much simplistic but also creatively inspired. I love what I do and adore the creative process: it is addictive and can give never-ending possibilities. Be thrilled to hear from your regarding a project.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Web developer",
   "User experience",
-  "Inclusive design",
+  "Web design",
+  "Blogging",
   "Focus group testing",
   "Mobile user interfaces",
   "Graphic design",

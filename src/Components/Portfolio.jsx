@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Side.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "My skills as the developers background image";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Text-Summarizer Web App🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a Text Summarizer web application using AI, Natural Language Processing (NLP) & Machine Learning.",
+    url: "https://text-piyu.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "MGM Hustler’s App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a Intra College social networking site where student can make their profile and can grow community on github by contributing on the repositories",
+    url: "https://mgm-hustlers.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Dapp-TodoList",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Implemented smart contracts using Solidity, enabling users to create, manage, and track their todo tasks directly on the blockchain.",
+    url: "https://github.com/piyush-mahajan/Productive-Dapp-",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Blogging Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Blogs about Web-Development ,UI/UX designing ,Programming,literature writing,Books,Photo and Video Editing,Gaming,Life,Fun and Many More.",
+    url: "https://piyushmahajan2004.blogspot.com/",
   },
 ];
 
